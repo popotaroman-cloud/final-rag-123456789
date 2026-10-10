@@ -1,0 +1,7 @@
+{
+  "student_id": "123456789",
+  "name": "popo test",
+  "llm_model": "qwen2.5-coder:7b",
+  "embed_model": "nomic-embed-text",
+  "notes": "ตัวอย่างการส่งงานของบัญชีทดสอบ dssistudent1@ubu.ac.th"
+}
